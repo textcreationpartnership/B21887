@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the committee of Lords and Commons for the Navy and customes. 10 November 1648.</title>
+            <author>England and Wales. Parliament. Committee of the Navy.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21887</idno><idno type="EEBO-CITATION">99886090</idno>
+  <idno type="VID">186456</idno>
+  <idno type="EEBO-PROQUEST">2240888574</idno>
+  
+            <idno type="STC">Wing E1245B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[82]</idno>
+            <idno type="STC">ESTC R225387</idno>
+            <idno type="PROQUEST">ocm99886090</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886090e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186456)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:3[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the committee of Lords and Commons for the Navy and customes. 10 November 1648.</title>
+                  <author>England and Wales. Parliament. Committee of the Navy.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order">
+            <pb facs="tcp:186456:1"/>
+            <head>At the Committee of Lords and Commons for the Navy and Customes. 10 <hi>November</hi> 1648.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Card-makers and Wyar-drawers of the City of <hi>London</hi> and other parts of this Kindome presented their humble Petition unto this Committee, Shewing, that they were in former times well imployed by draw<g ref="char:EOLhyphen"/>ing of Wyar, and making of Wooll-cards, whereby they maintained both themselves and their Families: But their Trade is now almost lost, by reason of the great quantity of Outlandish Cards for Wooll, and Wyar of Iron, that is daily imported into this Kingdome, contrary to severall Statutes made in former Parliaments pro<g ref="char:EOLhyphen"/>hibiting the importation of the said Commodities; by reason whereof the Petitioners are impoverished and ruined in their Trades and Livelyhood, Praying therefore that Order may be given unto the Commissioners and Officers of the Customes to be assisting unto them in the performance and execution of the said former Acts of Parliament; The examination of which Petition being referred unto the Commissioners of the Customes, they have thereupon certified that they finde the suggestions of the said Petition to be true, and that by severall <note n="*" place="margin">3. E. 4. cap. 4. 1 Ri. 3. cap. 12. 5. Eliz. cap. 7. 39 Eliz. cap. 14. 3 Car. cap. 4.</note> Statutes mentioned in the Margent no Wooll-cards, or white Wyar, ought to be imported into this Kingdome, or <hi>Wales,</hi> on paine of forfeiture; which Sta<g ref="char:EOLhyphen"/>tutes are still in force. And whereas many Clothiers have also certified, that forraigne Wooll cards, or any other Cards made of for<g ref="char:EOLhyphen"/>raine Wyar are very prejudiciall to the Manufacture of the Clothing of this Kingdome, being not any wayes so stiffe or serviceable as the Cards made of our own Wyar (drawn in this Kingdome) are; and that by the sole use of our own the Manufacture of Cloth is much bettered.</p>
+            <p>The Committee having perused those Statutes, and taken the whole premises into consideration, Are of opinion that the desires of the petitioners are just to be granted; And because this Committee doth finde that by connivancy severall Merchants not taking notice of the said Statutes have for divers yeeres past taken liberty to import Forraine Cards and Wyar; And not being willing that advantages should be taken on Merchants by these dormant Statutes without premonition, Do therefore hereby admonish them of the danger they are likely to incur by confiscation of their Goods, by vertue of the said Statutes in case they shall hereafter import any more of the said forraign Manufactures. And this Committee do thereupon Order, that the Commissioners and Officers of the Customes in the Port of <hi>London</hi> and all the Outports do take care that no person or persons do bring in, sell, or convey into this Kingdome of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Barwick,</hi> (after reasonable notice hereof given) any Forraigne Wool-cards, or Wyar, made in any places beyond the Seas; But in case that any of the said Commodities shall be imported, they are to make seizure of the same, according to the Statutes.</p>
+            <p>And it is further Ordered, that the Copies hereof be sent to the Custome-house of the port of <hi>London,</hi> and to all the Out-parts, that the Officers and all other whom it doth or may concern may take notice hereof accordingly.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Giles Gr<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</item>
+                     <item>Thomas Toll,</item>
+                     <item>Squire Bence.</item>
+                     <item>Ed<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d M<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</item>
+                     <item>Ri. Aldworth.</item>
+                     <item>Edward Exton.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="statute">
+            <head>A Statute made at <hi>Westminster Anno</hi> 3. <hi>Ed.</hi> 4, prohibiting certaine Merchandizes not lawfull to be brought ready wrought into this REALM.</head>
+            <p>
+               <hi>ITem,</hi> Whereas in the said Parliament by the Artificers of manuell Occupations men and women, inhabiting and restant in the City of <hi>London</hi> and other Cities, Towns, Boroughs and Villages within the said Realme of <hi>England</hi> and <hi>Wales,</hi> it hath been piteously shewed and complained, how that all they in generall, and every of them be greatly impoverished, and much hindred and prejudiced of their worldly increase and daily living, by the great multitude of divers Commodities &amp; Wares pertaining to their Mysteries &amp; Occupations being fully wrought &amp; ready made to sale, as well by the hands of strangers, being the Kings Enemies, as other in this Realm and <hi>Wales,</hi> fetcht and brought from beyond the Sea, as well by Merchant strangers, and Denisens, and other persons, whereof the greatest part in sub<g ref="char:EOLhyphen"/>stance is deceitfull, and nothing worth in regard of any Mans Occupation or Profit, by which occasion the said Artificers cannot live by their Mysteries and Oc<g ref="char:EOLhyphen"/>cupations as they have done in times past, but divers of them, as well Housholders as Hirelings, and other Servants and Apprentices in great number be at this day unoccupied, and do hardly live, in great misery, poverty and neede, whereby many inconveniences have grown before this time, and hereafter more be like to come (which God defend) if due remedy be not in this behalfe provided. Our redoubted Soveraigne Lord the King, considering the premises, and willing in this case to provide remedy, by the advice, assent and authority aforesaid, hath Ordained, Enacted and Established. That no Merchant born Subject of our said Lord the King, Denizen nor Stranger, nor other person after the Feast of S. <hi>Michael</hi> the Archangell next coming, shall bring, send nor convey, nor cause to be brought, sent nor conveyed into this Realme of <hi>England</hi> and Seigniory of <hi>Wales,</hi> any of the chaffers, wares or things under written; that is to say, any woollen Caps, woollen Clothes, Laces, Corses, Ribands, Fringes of Silk and of thréed, Laces of thréed, silk twined, silke in any wise imbroidered, Laces of Gold, of silke or Gold, Sadles, Stirrops, or any Harnesse pertaining to Sadles, Spurs, Bosses for Bridles, Aundirons, Gredirons, any manner of Locks, Hammers, Pinsons, Fire-tongs, Drippingpans Dice, Tennis balls, Points, Purses, Gloves, Girdles Harnesse for Girdles of Iron, Latten, Steele, Tin, or of Alkemine, any thing wrought of any tawed Leather, any tawed Furs, B<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>scans, Shooes, Galoches or Corks, Knives, Daggers, Wood-knives, Bodkins Sheers for Taylors, Cisors, Rasors, Chess<g ref="char:EOLhyphen"/>men, playing Cards, Combs, Pattins, Pack-néedles, any painted Ware, Forcers, Caskets, Rings or Copper, or of Latten gilt, Chafingdishes, hanging Candle<g ref="char:EOLhyphen"/>sticks, Chaffing-balls, sacring Bels, rings for Curtains, Ladles, Scommers, counterfeit Basons, Ewers, Hats, Brushes, Cards for wooll, black Iron thréed, com<g ref="char:EOLhyphen"/>monly called and named white Wire, or any of those wares or chaffers to be uttered and sold within the same Realme of <hi>England,</hi> or in the Countrey of <hi>Wales,</hi> by way of Merchandize, upon paine to forfeit the same Merchandizes, at every time, and as often as they may be found in the hands of any person or persons to be sold. The one halfe of the same forfeiture to be paid to the use of our Lord the King, and the other halfe to him that will first seize the same for the King. The same halfe by him so seized for our Lord the King to be delivered by the said seizor thereof to the Escheator of the Countrey or place where the same seisin shall be, by Indenture betwixt them made duly to answer thereof in his accompt.</p>
+            <p>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the said <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>res or chaffers made out of this Land, be taken upon the Sea without fraud and collusion, or come in this Realm of <hi>England,</hi> or the Countrey of <hi>Wales,</hi> by way of wreck, that those be in no <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>England</hi> or <hi>Wales,</hi> this Act or Statute notwithstanding.</p>
+            <p>Provided also, That all wares and chaffers made and wrought in the Land of <hi>Ireland</hi> or <hi>Wales,</hi> may be brought and sold in this Realm of <hi>England,</hi> as they were wont before the making of this Statute, this Act or Statute notwithstanding,</p>
+            <p>Also our Lord the King hath Ordained and Established, by the assent and authority aforesaid. That the Masters and Wardens for the time being of every Craft and Mystery in every City, Borough, Town and Village, where any such Craft or Mystery is used or occupied, shall have sufficient power and authority in every such City, Town, Borough and Village, where they for the time being shal be Wardens or Masters of any such Craft or Mystery, and the Mayor of such City, Borough, Town or Village for the time being, if any Mayor be, or the Bailiffs or Bailiff of any such City, Borough, Town or Village for the time being, if any Bailiffs or Bai<g ref="char:EOLhyphen"/>liff there be, and no Mayor or Sergeant, or any other Officer to them assigned by the said Mayor, Bailiffs or Bailiff in every such City, Borough, Town and Village, where any such Craft or Mystery is used or occupied, where no such Masters nor Wardens of any such Craft or Mystery be, that the Masters or Wardens of the Crafts and Mysteries of the City, Town, Borough or Village next adjoyning to the same, and the Constable of such City, Borough, Town or Village, shall have power and authoritie to search in their owne Crafts and Mysteries, and in all other Crafts and Mysteries, uttering by way of sale any of the aforesaid Wares, as well within Cities, Boroughs, Towns and Villages of the same Realme of <hi>England,</hi> and of the Countrey of <hi>Wales,</hi> as within the Liberties and Franchises of the same Cities, Boroughs, Towns and Villages at all times reasonable by the daie, at Faires and Markets, Shops open, and Ware-houses, all such manner of wares chaffers &amp; Mer<g ref="char:EOLhyphen"/>chandizes pertaining to everie of their proper Crafts and Misteries, which shall be made by any Alien Artificer, man or woman, or any other person or persons within the same Realm of <hi>England</hi> or <hi>Wales,</hi> or which at anie time shall be occupied by any of the said Crafts or Misteries, in whose hands soever they may be found.</p>
+            <p>Provided also, that the said Masters, Wardens, and other named in the said Ordinance to be searchers, shall not enter in any place exempt by priviledge, franchise or custom, to make in the same any search as is aforesaid, but by the oversight of some Officer of every such place so exempt where any such search shall happen to be made, &amp; if the said searchers by the same search do finde that such chaffers, wares or Merchandizes, or any part thereof be not pure, lawful and able chaffers, wares, or Merchan<g ref="char:EOLhyphen"/>dizes, and dulie wrought and made as they ought to be and that sufficientlie proved, that then it shall be lawfull to such searchers to take and seize all such chaffers, wares and Merchandizes, which shall so be found not good, pure, lawfull or able, nor well wrought, as a thing forfeit. The one halfe of the same forfeiture to be paid to the use of our Lord the King, and the other halfe thereof to such Masters or Wardeng, which so shall make search and finde the same. And that this present Ordinance or Statute concerning the said Artificers, stand and be in his force as long as shall please our Soveraigne Lord the King.</p>
+            <p>Provided alwaies, That this Ordinance and Act, nor any other Ordinance or Act made, or to be made in this present Parliament, shall extend, or in any wise be prejudiciall or hurtfull to <hi>Robert Stillington</hi> Clerk, Deane of the free Chappel of our Lord the King, of S. <hi>Martin le graund</hi> of <hi>London,</hi> nor to his Successors of the said Chappell hereafter for the time being in any maner, nor to the said <hi>Robert</hi> Deane and Chapter of the same Chappell, as in and for all maner Priviledges, Liberties, Franchises, Rights and Customes, in any manner pertaining to them before this Parliament Nor to any person or persons dwelling or inhabiting, or which shall hereafter inhabit and dwell within the Sanctuary and Precinct of the same Chappell, and especially within the Lane, commonly called S. <hi>Martins</hi> Lane. <hi>St. 5. El. 7.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
